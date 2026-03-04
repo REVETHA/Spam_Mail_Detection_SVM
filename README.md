@@ -74,7 +74,7 @@ http://localhost:5000
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Revetha K**
 
